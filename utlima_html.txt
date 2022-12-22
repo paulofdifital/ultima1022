@@ -1,0 +1,1 @@
+Alterando arquivo e depois valindando com git status para ver quais foram as alterações realizadas
